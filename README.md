@@ -1,16 +1,20 @@
-### Hi there 👋
+<div style="display: flex; align-items: center; justify-content: space-between">
 
-<!--
-**nyuitt/nyuitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![image](https://user-images.githubusercontent.com/111362734/190900917-0bf1fd83-6a78-4a35-aa69-af2420e83d17.png?width=1020&height=340")
 
-Here are some ideas to get you started:
+<div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center" style="font-weight: 600">Olá!</h2>
+
+<p align="center">Print("Hello World?") </p>
+
+</div>
+
+</div>
+
+<br>
+
+
+<h4 align="center">Meus links:</h4>
+<div align="center">
+  <a href="https://www.instagram.com/nyuitt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
