@@ -1,17 +1,19 @@
-<div style="display: flex; align-items: center; justify-content: space-between">
-
-  ![image](https://user-images.githubusercontent.com/111362734/190900917-0bf1fd83-6a78-4a35-aa69-af2420e83d17.png?width=1020&height=340")
-
-<div>
-
-<h2 align="center" style="font-weight: 600">Olá!</h2>
-
-<p align="center">Print("Hello World?") </p>
-
+<div align="center">
+  <a href="https://github.com/CarlosFeliponi">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nyuitt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyuitt&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
+<div style="display: inline_block"><br>
+ 
 </div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/joão-ruffo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joaoruffo1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+  <a href="https://twitter.com/nyuitt" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
-<br>
-
-
+<!-- ![Snake animation](https://github.com/CarlosFeliponi/CarlosFeliponi/blob/output/github-contribution-grid-snake.svg) -->
+ 
+</div>
