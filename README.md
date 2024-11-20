@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://github.com/nyuitt/nyuitt/blob/main/image.png" alt="img" style="width: 200%; border: none;"/>
+       <img src="https://github.com/nyuitt/nyuitt/blob/main/image2.jpg" alt="img" style="width: 100%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
