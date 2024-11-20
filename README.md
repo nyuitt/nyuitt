@@ -1,19 +1,63 @@
-<div align="center">
-  <a href="https://github.com/nyuitt">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nyuitt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyuitt&layout=compact&langs_count=3&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
- 
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/nyuitt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joaoruffo1997@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+table>
+  <tr>
+    <td style="width: 50%;">
+       <img src="https://github.com/nyuitt/nyuitt/blob/main/image.png" alt="João" style="width: 200%; border: none;"/>
+    </td>
+    <td style="width: 50%; vertical-align: top;">
+      <p style="font-family: monospace; font-size: 16px;">
+       
+         .:':'`:·          ,:´'`;' ‘                              _   ‘           ,.,        ,.,                 ',:'/¯/`:,            ,.-~·-.,__,.-::^·- .,'   ‘         ,.-~·-.,__,.-::^·- .,'   ‘
+       /:::::::/`·,      /::::/;‘        .·:¯:`/';            /::/'; ‘       ,·'/:::/     '/:::/';     '         /:/_/::::/';'        /:::::::::::::::::::::::::/'; '       /:::::::::::::::::::::::::/'; '
+      /:·*'`·:/:::::' , /·´'`;/::';'      /:::::/:::\          /::/: ';       '/:/;:;/    ,/:;:/:::'`,           /:'     '`:/::;‘     /;:·–– :;:::::_ ;: – .,/::;i'‘     /;:·–– :;:::::_ ;: – .,/::;i'‘
+    ,'         `:;::::'`i    ';:::';     /·´¯'`·;::::\      ,·´¯'`;::/      /·´    ;`   '\    '`;::::\          ;         ';:';‘    /´          ¯¯           ';::/      /´          ¯¯           ';::/  
+    ;            '`;:::'i    'i::::i    ;         \:::/`:, .'      ';/'      /      /.      \     '`;:::',        |         'i::i   ,:                          ,:/      ,:                          ,:/    
+    i               `;:';    'i:::i'    ';          \/::::,'    '   /      ,'      ;':';       '\      \::'i'°      ';        ;'::i   ';_,..–-.,_     _    _,.·´‘       ';_,..–-.,_     _    _,.·´‘     
+    i      ,          \|     '|:::i°    \          `'·:,:'´      /'       ;     'i::/`':.,_,.:'i      ;:/°       'i        'i::i'            ,·´'    '`·;'i¯                       ,·´'    '`·;'i¯            
+    |     ,'`,                i:;'' ‚     '`,                  ,'´'        i      ';/::::;::/::;'      i/'          ;       'i::;'            i         'i:i'       ’                i         'i:i'       ’     
+    'i    'i:::i',             ';/'           `,             ,'´:'*:^;     ';      '`·-:;_;:·'´       ,' °         ';       i:/'             ';        ';:i'     ’                  ';        ';:i'     ’       
+    'i     ;::/ \           ;/'              `;         ,/::::::::/'      ';                      ,'              ';     ;/ °              i        i:/'                         i        i:/'             
+     \    'i/    '`·,      ,''               ,·'         '¯ '`*^;:/‘        '\                   ,·'                ';   / °                 ;      i/    °                       ;      i/    °          
+      '`~´         '`·–·'´'               ';                 ,'/'            `·.,         ,. ·´                    `'´       °              \   '/'                               \   '/'                 
+                        ‘                  '`*^~·–-·~^*'´‘                     ¯`'´¯                           ‘                         ¯               °                   ¯               °  
 
+</p>
 
+    /𝐀𝐁𝐎𝐔𝐓 𝐌𝐄
+    │
+    ├── /𝐁𝐈𝐎
+    │    ├── ʜᴇ/ʜɪᴍ - ʙʀᴀᴢɪʟɪᴀɴ - (ᴘᴛ/ʙʀ + ᴇɴɢʟɪꜱʜ)
+    │    ├── Web Developer (ʟᴀʀᴀᴠᴇʟ, ɴᴜxᴛ, ᴊᴠᴀsᴄʀɪᴘᴛ)
+    │    └── CyberSecurity Enthusiast
+    │
+    ├── /𝐎𝐒
+    │    ├── /ʟɪɴᴜx (ᴍᴀɪɴ)
+    │    │   └── EndeavoursOS
+    │    └── /ᴡɪɴᴅᴏᴡꜱ
+    │        └── Wɪɴᴅᴏᴡꜱ_𝟣𝟣
+    │            
+    │
+    ├── /𝐒𝐓𝐀𝐂𝐊
+    │    ├── /PHP.php
+    │    ├── /Lᴀʀᴀᴠᴇʟ
+    │    ├── /Dᴏᴄᴋᴇʀ
+    │    ├── /Nᴜxᴛ.js
+    │    ├── /Jᴀᴠᴀsᴄʀɪᴘᴛ.js
+    │    ├── /Typescript.ts
+    │    ├── /Go.go
+    │    ├── /Pʏᴛʜᴏɴ.ᴘʏ
+    │    └── /Kotlin.kt
+    │
+    └── /𝐈𝐃𝐄𝐬
+        ├── ᴠꜱᴄᴏᴅᴇ
+        ├── ɴᴇᴏᴠɪᴍ
+        ├── android Studio
+        └── IntelliJ IDEA
+  </tr>
+</table>
 
- 
-</div>
+<details>
+<summary> 𝑪𝒐𝒅𝒆 𝑺𝒕𝒂𝒕𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━ ━━━</summary>
+<br>
+  <img src="https://leetcard.jacoblin.cool/Joao1234?theme=nord&font=JetBrains%20Mono" height="163," alt="LeetCode Stats" /> <img src="https://github-readme-stats.vercel.app/api?username=nyuitt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="163" alt="stats graph"  />
+<br>
+</details>
